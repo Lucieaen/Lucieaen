@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Lucieaen
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning HTML and CSS.
+- 📫 garz.lucien@gmail.com
