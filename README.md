@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Lucieaen
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning HTML and CSS.
-- 📫 garz.lucien@gmail.com
+- 👀 I’m interested in Web Development and Front-End Development.
+- 🌱 I’m currently learning HTML5, CSS3 and JS.
+- 📫 Message me at Garz.Lucien@gmail.com or Garz.Lucian@yahoo.com
